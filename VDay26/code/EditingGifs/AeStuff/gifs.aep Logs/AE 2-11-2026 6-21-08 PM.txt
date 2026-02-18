@@ -1,8 +1,0 @@
-  2/11/2026 6:21:08 PM: Starting composition “Pre-comp 1”.
-
-  Output To: C:\Users\RobertK\codingprojects\MiscProj\VDay26\code\EditingGifs\outputs\yes.avi    2/11/2026 6:21:11 PM: Finished composition “Pre-comp 1”.
-
-
-  Total Time Elapsed: 3 Seconds
-Log closed on 2/11/2026 at 6:21:11 PM
-
